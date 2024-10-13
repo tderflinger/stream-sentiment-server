@@ -14,7 +14,7 @@ Tutorial:
 - Run `node server.mjs` from within the project root to start the Node server on port 5500.
 
 ## Built With
-- [Amazon Translate](https://aws.amazon.com/translate/) - Language translation
+- [Amazon Comprehend](https://aws.amazon.com/comprehend/) - Sentiment detection
     features
 - [Stream Chat](https://getstream.io/chat/) - Chat features
 
